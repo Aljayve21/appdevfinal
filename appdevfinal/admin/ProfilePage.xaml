@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:appdevfinal.ViewModels"
+             x:Class="appdevfinal.admin.ProfilePage"
+             Title="ProfilePage">
+
+    <ContentPage.BindingContext>
+        <local:ProfilePictureViewModel />
+    </ContentPage.BindingContext>
+    
+    <StackLayout>
+        <!--<Image Source="{Binding UserProfilePicture}" WidthRequest="100" HeightRequest="100" /> -->
+
+        <Label Text="{Binding FullName}" TextColor="Black"/>
+        <Label Text="{Binding Username}" TextColor="Black"/>
+
+        <!--<Button Text="Upload Profile Picture" Clicked="OnUploadPictureClicked" /> -->
+
+        <StackLayout>
+            <Button Text="Logout" Clicked="OnLogoutClicked" />
+        </StackLayout>
+
+    </StackLayout>
+
+
+    
+
+    
+    
+    
+</ContentPage>

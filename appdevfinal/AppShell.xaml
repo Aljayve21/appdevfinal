@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="appdevfinal.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:appdevfinal"
+    Shell.FlyoutBehavior="Disabled"
+    Title="appdevfinal">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+    <ShellContent Title="Signup"
+                  ContentTemplate="{DataTemplate local:Page.SignupPage}" />
+
+    <Shell.Items>
+        <ShellItem Route="admin">
+            <ShellContent ContentTemplate="{DataTemplate local:admin.adminDashboard}" Route="adminDashboard" />
+            <Tab Route="search" Title="Search">
+                <ShellContent ContentTemplate="{DataTemplate local:admin.SearchPage}" Route="search" />
+            </Tab>
+            <Tab Route="monitorPage" Title="Monitor">
+                <ShellContent ContentTemplate="{DataTemplate local:admin.MonitorPage}" Route="monitorPage" />
+            </Tab>
+            <Tab Route="home" Title="Home">
+                <ShellContent ContentTemplate="{DataTemplate local:admin.Home}" Route="home" />
+            </Tab>
+            <Tab Route="profile" Title="Profile">
+                <ShellContent ContentTemplate="{DataTemplate local:admin.ProfilePage}" Route="profile" />
+            </Tab>
+        </ShellItem>
+    </Shell.Items>
+
+</Shell>
+
+

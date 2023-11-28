@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\classes\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\classes\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\classes\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\viewmodels\\profilepictureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\viewmodels\\profilepictureviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\monitorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\monitorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\viewmodels\\signuppageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\viewmodels\\signuppageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\page\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\page\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\page\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\page\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\searchpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\searchpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\admin\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|c:\\users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{363D45A6-6E73-4E96-A969-9D1750869674}|appdevfinal\\appdevfinal.csproj|solutionrelative:appdevfinal\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignupPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Page\\SignupPage.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\Page\\SignupPage.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Page\\SignupPage.xaml",
+              "RelativeToolTip": "appdevfinal\\Page\\SignupPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T07:49:32.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "appdevfinal\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA2wDIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T07:47:57.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Classes\\DBConnection.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\Classes\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Classes\\DBConnection.cs",
+              "RelativeToolTip": "appdevfinal\\Classes\\DBConnection.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABIAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T07:44:09.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Classes\\Admin.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\Classes\\Admin.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Classes\\Admin.cs",
+              "RelativeToolTip": "appdevfinal\\Classes\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T07:50:51.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\App.xaml.cs",
+              "RelativeToolTip": "appdevfinal\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T09:32:00.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\App.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\App.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\App.xaml",
+              "RelativeToolTip": "appdevfinal\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T08:04:57.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignupPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Page\\SignupPage.xaml.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\Page\\SignupPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Page\\SignupPage.xaml.cs",
+              "RelativeToolTip": "appdevfinal\\Page\\SignupPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T08:15:35.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\ProfilePage.xaml",
+              "RelativeToolTip": "appdevfinal\\admin\\ProfilePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T11:58:01.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "appdevfinal\\admin\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA2wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T07:26:18.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfilePictureViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\ViewModels\\ProfilePictureViewModel.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\ViewModels\\ProfilePictureViewModel.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\ViewModels\\ProfilePictureViewModel.cs",
+              "RelativeToolTip": "appdevfinal\\ViewModels\\ProfilePictureViewModel.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAC0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T08:57:59.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\MauiProgram.cs",
+              "RelativeToolTip": "appdevfinal\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T09:35:27.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\MainPage.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\MainPage.xaml",
+              "RelativeToolTip": "appdevfinal\\MainPage.xaml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAtwBwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T07:43:16.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonitorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\MonitorPage.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\MonitorPage.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\MonitorPage.xaml",
+              "RelativeToolTip": "appdevfinal\\admin\\MonitorPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T11:57:45.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\AppShell.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\AppShell.xaml",
+              "RelativeToolTip": "appdevfinal\\AppShell.xaml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T08:05:22.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignupPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\ViewModels\\SignupPageViewModel.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\ViewModels\\SignupPageViewModel.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\ViewModels\\SignupPageViewModel.cs",
+              "RelativeToolTip": "appdevfinal\\ViewModels\\SignupPageViewModel.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAE4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T07:51:38.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\AppShell.xaml.cs",
+              "RelativeToolTip": "appdevfinal\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T09:29:36.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\MainPage.xaml.cs",
+              "RelativeToolTip": "appdevfinal\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T08:07:26.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchPage.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\SearchPage.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\SearchPage.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\SearchPage.xaml",
+              "RelativeToolTip": "appdevfinal\\admin\\SearchPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T11:58:19.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\SearchPage.xaml.cs",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\SearchPage.xaml.cs",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\SearchPage.xaml.cs",
+              "RelativeToolTip": "appdevfinal\\admin\\SearchPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-27T12:40:18.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminDashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\adminDashboard.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\adminDashboard.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\adminDashboard.xaml",
+              "RelativeToolTip": "appdevfinal\\admin\\adminDashboard.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T11:57:14.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\Home.xaml",
+              "RelativeDocumentMoniker": "appdevfinal\\admin\\Home.xaml",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\admin\\Home.xaml",
+              "RelativeToolTip": "appdevfinal\\admin\\Home.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-11-27T11:57:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "appdevfinal\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\Properties\\launchSettings.json",
+              "RelativeToolTip": "appdevfinal\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-11-27T09:26:59.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

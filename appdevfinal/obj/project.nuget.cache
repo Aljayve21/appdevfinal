@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8qmL7XrbP1hmSPilwWoAzYNxDMDa7OSV2H0dsX+lpnO4w9/aylSd/1qIF1UBI92kkvsCcEW4SsP9F5pt9CYqQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\aljay\\source\\repos\\appdevfinal\\appdevfinal\\appdevfinal.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net8.0-android, net8.0-ios, net8.0-maccatalyst"
+    }
+  ]
+}
